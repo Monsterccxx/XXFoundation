@@ -1,2 +1,2 @@
 # XXFoundation
-Some encapsulation of UIFoundation
+Some encapsulation of NSFoundation
